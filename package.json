@@ -1,0 +1,22 @@
+{
+  "name": "smartadb",
+  "version": "1.0.0",
+  "description": "A smart ADB library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacowhisperer/SmartADB.git"
+  },
+  "author": "tacowhisperer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacowhisperer/SmartADB/issues"
+  },
+  "homepage": "https://github.com/tacowhisperer/SmartADB#readme",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
