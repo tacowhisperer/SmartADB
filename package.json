@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tacowhisperer/SmartADB#readme",
   "dependencies": {
+    "jimp": "^0.6.0",
     "synaptic": "^1.1.4"
   }
 }
