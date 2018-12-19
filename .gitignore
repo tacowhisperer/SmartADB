@@ -1,0 +1,6 @@
+# Ignore any images that might be generated in the repository.
+*.png
+*.bmp
+*.jpg
+*.gif
+*.tiff
